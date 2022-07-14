@@ -1,0 +1,23 @@
+{
+  "name": "render-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "author": "ArslonbekXX",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslonbekXX/render-box.git"
+  },
+  "keywords": [
+    "img",
+    "loading",
+    "pdp-b-18",
+    "npm",
+    "render"
+  ],
+  "bugs": {
+    "url": "https://github.com/arslonbekXX/render-box/issues"
+  },
+  "homepage": "https://github.com/arslonbekXX/render-box#readme"
+}
