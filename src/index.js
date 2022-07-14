@@ -1,5 +1,6 @@
-function log() {
-  console.log("Hello World");
+function renderBox(element,  imgURL) {
+  console.log(`imgURl = ${imgURL}`);
+  console.log(`element =`, imgURL);
 }
 
-module.exports = { log };
+module.exports = { renderBox };

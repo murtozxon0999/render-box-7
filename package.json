@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "",
   "main": "./src/index.js",
-  "author": "ArslonbekXX",
+  "author": "murtozxon",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arslonbekXX/render-box.git"
+    "url": "https://github.com/murtozxon0999/render-box-7.git"
   },
   "keywords": [
     "img",
@@ -17,7 +17,7 @@
     "render"
   ],
   "bugs": {
-    "url": "https://github.com/arslonbekXX/render-box/issues"
+    "url": "https://github.com/murtozxon0999/render-box-7/issues"
   },
-  "homepage": "https://github.com/arslonbekXX/render-box#readme"
+  "homepage": "https://github.com/murtozxon0999/render-box-7#readme"
 }
